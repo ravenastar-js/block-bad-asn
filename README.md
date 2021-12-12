@@ -18,4 +18,4 @@ ip.geoip.asnum in {49313 57879 56617 62088 45179 27597 201702 32740 58667 12617 
 (ip.geoip.country eq "T1")
 ```
 ---
-<p><a href="https://github.com/SergioGlorias"><img src="https://img.shields.io/badge/-Contribuição:%20SergioGlorias-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/SergioGlorias"/></a></p> <p><a href="https://github.com/SergioGlorias"><img src="https://img.shields.io/badge/-Contribuição:%20Astin-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/astindev"/></a></p>
+<p><a href="https://github.com/SergioGlorias"><img src="https://img.shields.io/badge/-Contribuição:%20SergioGlorias-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/SergioGlorias"/></a></p><p><a href="https://github.com/SergioGlorias"><img src="https://img.shields.io/badge/-Contribuição:%20Astin-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/astindev"/></a></p>
