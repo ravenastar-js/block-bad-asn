@@ -1,6 +1,6 @@
 # Block bad ASN in CloudFlare
 - Cloudflare > Regras de firewall > Criar regra de firewall > Editar expressão
-> ASN referente a VPN, Proxy, DDoS, hosting e relay.<br>
+> ASN referente a VPN, Proxy, DDoS, hosting e relay. Referência do projeto de [brianhama](https://github.com/brianhama/bad-asn-list)<br>
 
 > Não há listados todos os tipos de ASN referente a VPN, Proxy, DDoS, hosting e relay nessa lista, caso tenha alguma sugestão de ASN basta entrar em contato via [servidor de suporte](https://discord.gg/pAMsAaG) e informá-la pra equipe, a ASN só será listada nessa lista se informá-la via servidor de suporte.
 1) Block bad ASN:
